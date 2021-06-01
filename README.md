@@ -10,4 +10,4 @@ I am a UX/UI design bootcamp graduate seeking to develop Java & Android coding s
 
 ## Links
 
-* [LinkedIn] (www.linkedin.com/in/kimberly-ford-955382a9)
+* [LinkedIn](www.linkedin.com/in/kimberly-ford-955382a9)
