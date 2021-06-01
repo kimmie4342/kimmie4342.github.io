@@ -9,3 +9,5 @@ I am a UX/UI design bootcamp graduate seeking to develop Java & Android coding s
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn] (www.linkedin.com/in/kimberly-ford-955382a9)
